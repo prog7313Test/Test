@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:height="58dp"
-            android:hint="Enter your message" />
+            android:hint="Enter your messages" />
 
         <Button
             android:id="@+id/btnSend"
@@ -22,6 +22,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:height="58dp"
-            android:text="Send Message" />
+            android:text="Send Messages" />
     </LinearLayout>
 </layout>
